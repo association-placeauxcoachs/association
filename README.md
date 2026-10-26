@@ -2,7 +2,7 @@
 
 L'association PlaceAuxCoachs porte [PlaceAuxCoachs](https://placeauxcoachs.fr), une application gratuite de création et de partage d'entraînements de handball, développée bénévolement pour les entraîneurs.
 
-L'association est **en cours de création**. Ce dépôt publiera ses documents officiels à mesure qu'ils sont adoptés.
+L'association a été constituée le 17 octobre 2026 et déclarée à la préfecture de la Gironde sous le numéro **W332038379** (répertoire national des associations). Son siège est à Saint-Sulpice-et-Cameyrac (Gironde). Ce dépôt publie ses documents officiels à mesure qu'ils sont adoptés.
 
 ## Ce qui est publié ici
 
